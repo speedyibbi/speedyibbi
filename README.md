@@ -50,7 +50,6 @@
 </p>
 
 <br />
-<br />
 
 
 
@@ -60,14 +59,3 @@
 	 <img src="https://img.shields.io/badge/Portfolio-FF77AA?style=for-the-badge" alt="portfolio"/></a>
 <a href="https://www.linkedin.com/in/ibrahim-khan-894629250/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-
-<br />
-<br />
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://speedyibbi.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://speedyibbi.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://speedyibbi.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
